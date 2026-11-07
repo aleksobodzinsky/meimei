@@ -1,0 +1,10 @@
+#site-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#tole {
+    width: 50vw;
+}
